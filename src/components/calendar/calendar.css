@@ -66,8 +66,8 @@
 
 .rmdp-day,
 .rmdp-week-day {
-  height: 34px;
-  width: 34px;
+  height: 48px;
+  width: 48px;
   cursor: pointer;
   position: relative;
   color: black;
@@ -89,7 +89,7 @@
   right: 3px;
   top: 3px;
   bottom: 3px;
-  border-radius: 50%;
+  border-radius: 10px;
   display: flex;
   justify-content: center;
   flex-direction: column;
